@@ -20,3 +20,12 @@ main {
     justify-content: center;
     align-items: center;
 }
+
+main div i {
+    margin: 0 8px;
+}
+
+main div i:hover {
+    cursor: pointer;
+    opacity: 0.9;
+}
